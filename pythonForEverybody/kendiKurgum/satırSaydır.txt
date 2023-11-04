@@ -1,0 +1,15 @@
+1. Birinci satır
+From: david.horwitz@uct.ac.za
+2. İkinci satır
+From: louis@media.berkeley.edu
+3. Üçüncü satır
+from: stephen.marquard@uct.ac.za
+4. Dördüncü satır
+From: cwen@iupui.edu
+from: david.horwitz@uct.ac.za
+5. Beşinci satır
+6. Altıncı satır
+
+8. Bir önce boşluk bırakıldı
+
+10. Bir boşluk daha

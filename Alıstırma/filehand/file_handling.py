@@ -1,0 +1,66 @@
+# f1 = open("file_1.txt", "w+")
+# print(f1.tell())
+# f1.write("Selam Hosgeldin")
+# print(f1.tell())
+# f1.seek(0)
+# data = f1.read()
+# print(data)
+# f1.close()
+
+
+# f1 = open("file_1.txt", "r+")
+# print(f1.tell())
+# print(f1.read())
+# print(f1.tell())
+# f1.seek(16)
+# f1.write("Jenny's lecture")
+# f1.seek(0)
+# data = f1.read()
+# print(data)
+# print(f1.tell())
+# f1.close()
+
+# f1 = open("file_1.txt", "r+")
+# print(f1.tell())
+# print(f1.read())
+# print(f1.tell())
+
+# f1.write("Merhaba Hosgeldini")
+# print(f1.tell())
+# print(f1.read())
+
+# f1.close()
+
+# with open("file_1.txt", "r+") as f1:
+#     print(f1.tell())
+#     print(f1.read())
+#     print(f1.tell())
+#     f1.write("Mrb")
+#     print(f1.read())
+#     print(f1.tell())
+
+# f1 = open("file_1.txt", "r+")
+# print(f1.tell())
+# print(f1.read(),end="")
+# print(f1.tell())
+# f1.write("Mrb")
+# print(f1.tell())
+# f1.seek(0)
+# print(f1.read())
+# f1.close()
+
+# f1 = open("file_1.txt", "r+")
+
+# f1.read()
+# f1.write("This is python course")
+# print(f1.tell())
+# f1.seek(0)
+# print(f1.read())
+
+
+# # # f1.write("Hi")
+# # # print(f1.read())
+# # #f1.write("This is python course")
+# # # f1.seek(0)
+# # # print(f1.read())
+# f1.close()

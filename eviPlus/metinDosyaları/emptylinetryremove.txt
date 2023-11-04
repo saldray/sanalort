@@ -1,0 +1,12 @@
+['apple', 'banana', 'watermelon']
+['apple', 'watermelon']
+['apple', 'watermelon']
+['apple', 'watermelon']
+['apple', 'banana', 'watermelon', 'cherry']
+pow
+print
+property
+0__dummy_completion__  1__dummy_completion__  
+['apple', 'banana', 'watermelon', 'cherry']
+['apple', 'banana', 'watermelon', 'cherry']
+['apple', 'banana', 'watermelon', 'cherry']
