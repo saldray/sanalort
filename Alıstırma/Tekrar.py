@@ -545,3 +545,47 @@
 #         print(i**2)
 
 # print_squares(3)
+
+###################
+###################
+
+
+# Python3 program to swap first
+# and last element of a list
+
+# Swap function
+#def swapList(newlist):
+#    size = len(newList)
+#
+#    # Swapping
+#    temp = newList[0]
+#    newList[0] = newList[size - 1]
+#    newList[size - 1 ] = temp
+#
+#    return newList
+#
+## Driver code
+#newList = [12, 35, 9, 56, 24]
+#
+#print(swapList(newList))
+
+
+
+#def swapList():
+#    newList = []
+#    numElement = int(input("Enter the number of list you want to add num: "))
+#    for itervar in range(numElement):
+#        element = int(input(f"Enter element {itervar+1}: "))
+#        newList.append(element)
+#    print(newList)
+#
+#    size = len(newList)
+#    
+#    #Swapping
+#    temp = newList[0]
+#    newList[0] = newList[size - 1]
+#    newList[size - 1] = temp
+#    print(newList)
+#
+#swapList()
+
